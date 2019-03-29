@@ -4,7 +4,6 @@ import java.util.Random;
 public class RandomNumber {
     public static void main(String[] args) {
         Random random = new Random();
-        int number = 0;
         System.out.println("Drawn numbers: ");
         for (int i = 1; i <= 6; i++) {
             System.out.println(random.nextInt(49) + 1);
