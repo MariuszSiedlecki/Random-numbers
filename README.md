@@ -1,0 +1,1 @@
+Losowanie sześciu liczb.
